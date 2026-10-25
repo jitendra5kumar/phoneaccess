@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AccessPoint</string>
+    <string name="accessibility_description">This service assists with sending messages and managing communication features within the app.</string>
+</resources>
